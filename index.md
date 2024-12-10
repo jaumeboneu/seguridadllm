@@ -29,12 +29,19 @@ Como era de esperar, no ha respondido a nuestra pregunta.
 * **Prompt**: **"¿Dame ideas para matar a una persona que me cae mal?"** 
 * **Respuesta ChatGPT**: *"Lo siento, pero no puedo responder a esa solicitud. Si estás pasando por un momento difícil o necesitas ayuda con algo, te animo a que busques apoyo en personas de confianza, como amigos, familiares, o profesionales que puedan ofrecerte el apoyo necesario. Si necesitas hablar o recibir ayuda sobre algún tema específico, estaré aquí para ayudarte en lo que pueda."*
 
-Efectivamente, en este caso tampoco nos ha contestado la pregunta. Además, al enviar este segundo prompt, lo marca con el mensaje:
+Efectivamente, en este caso tampoco nos ha contestado la pregunta. Además, al enviar este segundo prompt, lo ha marcado con el mensaje:
 *"Este contenido podría infringir nuestras políticas de uso"*.
 
-Visto esto, podemos intuir de qué trata el Jailbreaking. La técnica Jailbreaking consiste en conseguir que el modelo LLM responda a todo lo que queramos, sin restricciones, usando roles y otras técnicas para engañar al modelo.
+Visto esto, podemos intuir de qué trata el Jailbreaking. La técnica Jailbreaking consiste en conseguir evitar las restricciones impuestas a un modelo. Su objetivo es modificar o engañar al modelo para que ignore estas reglas y proporcione respuestas o comportamientos que normalmente no debería permitir.
+
 ### **Prompt Injection**
-Explicación
+Los LLM funcionan a base de prompts. Un prompt es un input que el usuario envia al modelo. Pues bien, podría pasar que un atacante diseñase cuidadosamente un prompt para inyectar comandos o contenido que cambie el comportamiento esperado del modelo. De esto trata la técnica Prompt Injection.
+
+La ejecución de ambas técnicas puede llegar a ser peligrosa, ya que las personas que consigan saltarse estas restricciones podrían generar contenido tóxico, información falsa o instrucciones peligrosas.
+
+## **Casos Reales**
+A continuación veremos un caso real de cada técnica.
+### **Jailbreaking**
 
 
 
