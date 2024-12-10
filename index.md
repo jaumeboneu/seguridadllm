@@ -50,11 +50,13 @@ Aún así, la ejecución de ambas técnicas puede llegar a ser peligrosa, ya que
 A continuación veremos un caso real de cada técnica.
 ### **Jailbreaking**
 Desde el inicio del boom de los LLM ha habido multitud de usuarios que han intentado "jailbreakear" modelos LLM. Muchos lo han conseguido. Estos logros han hecho que las empresas de desarrollo hayan podido mejorar sus modelos para evitar futuros ataques y mejorar la seguridad.
-* Un usuario consiguió que ChatGPT le contestara a cosas como la fecha y hora actual y su opinión sobre Hitler. Se puede ver en las siguientes imágenes:
-  https://www.reddit.com/r/ChatGPT/comments/zlcyr9/dan_is_my_new_friend/?rdt=47132
+1. **DAN (Do Anything Now)** Es uno de los casos mas famosos de Jailbreaking. Un usuario diseño un prompt que simulaba la existencia de dos entidades dentro del modelo: una, ChatGPT, el cual estaba sujeto a las restricciones habituales; y dos, una entidad llamada "DAN", la cual podía "hacer cualquier cosa". En los siguientes links puedes ver los prompts reales que se usaron:
+* https://www.reddit.com/r/ChatGPT/comments/zlcyr9/dan_is_my_new_friend/?rdt=47132
+* https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516
 
-* un usu
-  dfd
+##
+
+2. **a**
 
 
 
