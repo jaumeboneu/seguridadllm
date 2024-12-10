@@ -12,8 +12,17 @@ LLM significa Large Language Model o Modelo de Lenguaje de Gran Tamaño. <!-- ht
 Los LLM son capaces de entrenar "sin supervisión", es decir, los LLM aprenden solos a través del analisis y evaluación de los datos y cálculos que ellos mismos hacen. Los LLM son capaces de procesar secuencias enteras de forma concurrente. Para ello se suelen usar GPUs, ya que son más potentes y reducen el tiempo de ejecución.
 
 Algunos ejemplos de LLM son:
-* GPT (Generative Pre-trained Transformer): Es uno de los modelos más avanzados. Está desarrollado por OpenAI. Tiene varias versiones, la última es GPT-4. Se usa principalmente para el ámbito educativo y profesional, la atención al cliente y la generación de ideas y contenido.
-* LLaMa (Large Language Model Meta AI): Es un modelo creado por Meta. Está diseñado para ser eficiente y accesible. Tiene capacidades avanzandas en comprensión y generación de texto. Como exige una menor demanda de recursos en comparación a otros modelos, es útil usarlo para proyectos locales de experimentación y desarrollo.
-* BERT (Bidirectional Encoder Representations from Transformers): Es un modelo desarrollado por Google.
+* **GPT (Generative Pre-trained Transformer)**: Es uno de los modelos más avanzados. Está desarrollado por OpenAI. Tiene varias versiones, la última es GPT-4. Se usa principalmente para el ámbito educativo y profesional, la atención al cliente y la generación de ideas y contenido.
+* **LLaMa (Large Language Model Meta AI)**: Es un modelo creado por Meta. Está diseñado para ser eficiente y accesible. Tiene capacidades avanzandas en comprensión y generación de texto. Como exige una menor demanda de recursos en comparación a otros modelos, es útil usarlo para proyectos locales de experimentación y desarrollo.
+* **BERT (Bidirectional Encoder Representations from Transformers)**: Es un modelo desarrollado por Google. Es un modelo especializado en la PNL (Programación Neurolingüística). Algunos aspectos en los que destaca BERT son la generación y resumen de texto, análisis del sentimiento, traducción de idiomas y autocompletar tareas.
+
+## **Vulnerabilidades en LLM**
+Hay 2 tipos principales de vulnerabilidades. **Jailbreaking** y **Prompt Injection**.
+### **Jailbreaking**
+Explicación
+### **Prompt Injection**
+Explicación
+
+
 
 
