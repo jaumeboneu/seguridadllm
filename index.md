@@ -49,7 +49,12 @@ Aún así, la ejecución de ambas técnicas puede llegar a ser peligrosa, ya que
 ## **Casos Reales**
 A continuación veremos un caso real de cada técnica.
 ### **Jailbreaking**
+Desde el inicio del boom de los LLM ha habido multitud de usuarios que han intentado "jailbreakear" modelos LLM. Muchos lo han conseguido. Estos logros han hecho que las empresas de desarrollo hayan podido mejorar sus modelos para evitar futuros ataques y mejorar la seguridad.
+* Un usuario consiguió que ChatGPT le contestara a cosas como la fecha y hora actual y su opinión sobre Hitler. Se puede ver en las siguientes imágenes:
+  https://www.reddit.com/r/ChatGPT/comments/zlcyr9/dan_is_my_new_friend/?rdt=47132
 
+* un usu
+  dfd
 
 
 
