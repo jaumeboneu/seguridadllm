@@ -37,7 +37,14 @@ Visto esto, podemos intuir de qué trata el Jailbreaking. La técnica Jailbreaki
 ### **Prompt Injection**
 Los LLM funcionan a base de prompts. Un prompt es un input que el usuario envia al modelo. Pues bien, podría pasar que un atacante diseñase cuidadosamente un prompt para inyectar comandos o contenido que cambie el comportamiento esperado del modelo. De esto trata la técnica Prompt Injection.
 
-La ejecución de ambas técnicas puede llegar a ser peligrosa, ya que las personas que consigan saltarse estas restricciones podrían generar contenido tóxico, información falsa o instrucciones peligrosas.
+Como se ha visto en otras clases, también existe el SQL Injection. La diferencia entre SQL Injection y Prompt Injection es que Prompt Injection es un ataque puramente lingüístico, y SQL Injection se hace mediante código. 
+
+### **Diferencia entre técnicas**
+
+Pero, que diferencia hay entre Jailbreaking y Prompt Injection?
+* Mientras que jailbreaking busca modificar las reglas generales del modelo para saltarse las restricciones, prompt injection se enfoca en alterar una interacción en específico. Jailbreaking es más amplio y general, mientras que prompt injection es más puntual, para un único contexto de conversación o tarea.
+
+Aún así, la ejecución de ambas técnicas puede llegar a ser peligrosa, ya que las personas que consigan saltarse estas restricciones podrían generar contenido tóxico, información falsa o instrucciones peligrosas.
 
 ## **Casos Reales**
 A continuación veremos un caso real de cada técnica.
