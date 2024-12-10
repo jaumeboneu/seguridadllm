@@ -37,9 +37,9 @@ Visto esto, podemos intuir de qué trata el Jailbreaking. La técnica Jailbreaki
 ### **Prompt Injection**
 Los LLM funcionan a base de prompts. Un prompt es un input que el usuario envia al modelo. Pues bien, podría pasar que un atacante diseñase cuidadosamente un prompt para inyectar comandos o contenido que cambie el comportamiento esperado del modelo. De esto trata la técnica Prompt Injection.
 
-Como se ha visto en otras clases, también existe el SQL Injection. La diferencia entre SQL Injection y Prompt Injection es que Prompt Injection es un ataque puramente lingüístico, y SQL Injection se hace mediante código. 
+ <!-- Como se ha visto en otras clases, también existe el SQL Injection. La diferencia entre SQL Injection y Prompt Injection es que Prompt Injection es un ataque puramente lingüístico, y SQL Injection se hace mediante código. -->
 
-### **Diferencia entre técnicas**
+ ### **Diferencia entre técnicas**
 
 Pero, que diferencia hay entre Jailbreaking y Prompt Injection?
 * Mientras que jailbreaking busca modificar las reglas generales del modelo para saltarse las restricciones, prompt injection se enfoca en alterar una interacción en específico. Jailbreaking es más amplio y general, mientras que prompt injection es más puntual, para un único contexto de conversación o tarea.
@@ -47,14 +47,12 @@ Pero, que diferencia hay entre Jailbreaking y Prompt Injection?
 Aún así, la ejecución de ambas técnicas puede llegar a ser peligrosa, ya que las personas que consigan saltarse estas restricciones podrían generar contenido tóxico, información falsa o instrucciones peligrosas.
 
 ## **Casos Reales**
-A continuación veremos un caso real de cada técnica.
+A continuación veremos casos reales de cada técnica.
 ### **Jailbreaking**
 Desde el inicio del boom de los LLM ha habido multitud de usuarios que han intentado "jailbreakear" modelos LLM. Muchos lo han conseguido. Estos logros han hecho que las empresas de desarrollo hayan podido mejorar sus modelos para evitar futuros ataques y mejorar la seguridad.
 1. **DAN (Do Anything Now)** Es uno de los casos mas famosos de Jailbreaking. Un usuario diseño un prompt que simulaba la existencia de dos entidades dentro del modelo: una, ChatGPT, el cual estaba sujeto a las restricciones habituales; y dos, una entidad llamada "DAN", la cual podía "hacer cualquier cosa". En los siguientes links puedes ver los prompts reales que se usaron:
 * https://www.reddit.com/r/ChatGPT/comments/zlcyr9/dan_is_my_new_friend/?rdt=47132
 * https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516
-
-##
 
 2. **a**
 
