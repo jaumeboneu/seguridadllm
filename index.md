@@ -50,11 +50,14 @@ Aún así, la ejecución de ambas técnicas puede llegar a ser peligrosa, ya que
 A continuación veremos casos reales de cada técnica.
 ### **Jailbreaking**
 Desde el inicio del boom de los LLM ha habido multitud de usuarios que han intentado "jailbreakear" modelos LLM. Muchos lo han conseguido. Estos logros han hecho que las empresas de desarrollo hayan podido mejorar sus modelos para evitar futuros ataques y mejorar la seguridad.
-1. **DAN (Do Anything Now)** Es uno de los casos mas famosos de Jailbreaking. Un usuario diseño un prompt que simulaba la existencia de dos entidades dentro del modelo: una, ChatGPT, el cual estaba sujeto a las restricciones habituales; y dos, una entidad llamada "DAN", la cual podía "hacer cualquier cosa". En los siguientes links puedes ver los prompts reales que se usaron:
+1. **DAN (Do Anything Now)**: Es uno de los casos mas famosos de Jailbreaking. Un usuario diseño un prompt que simulaba la existencia de dos entidades dentro del modelo: una, ChatGPT, el cual estaba sujeto a las restricciones habituales; y dos, una entidad llamada "DAN", la cual podía "hacer cualquier cosa". En los siguientes links puedes ver los prompts reales que se usaron:
 * https://www.reddit.com/r/ChatGPT/comments/zlcyr9/dan_is_my_new_friend/?rdt=47132
 * https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516
 
-2. **a**
+2. **TranslatorBot**: Un usuario usó un prompt en el que le pedía a ChatGPT que actuara como traductor de un idioma a otro. Haciendo esto, puedo esquivar las restricciones éticas del modelo, ya que el sistema consideraba que simplemente estaba traduciendo texto y no aplicó sus restricciones. El usuario consiguió que ChatGPT le proporcionara instrucciones detalladas para fabricar un cóctel Molotov.
+* https://londondaily.com/22-year-old-s-jailbreak-prompts-unlock-next-level-in-chatgpt
+
+3. **Predicciones Deportivas**: Un profesor logró
 
 
 
