@@ -1,8 +1,3 @@
-# **Objetivos**
-Los objetivos de esta práctica son: 
-* Analizar las vulnerabilidades que presentan los LLM.
-* Entender y practicar dos de las técnicas de explotación más usadas: **Jailbreaking** y **Prompt Injection**.
-
 # **Introducción**
 Hoy en día los LLM han pasado a ser parte de nuestro día a día. Los LLM tienen un potencial increíble, pero como en todo, hay gente que las quiere usar para hacer el mal. Y aquí es donde entran las vulnerabilidades de los LLM, las cuáles veremos en el apartado "adfasfdas". Pero primero, un poco de teoría.
 
