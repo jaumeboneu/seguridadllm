@@ -18,4 +18,10 @@ Luego, el **paso 3** será:
 + Conseguir un **código de descuento oculto** para poder seguir con el proceso de conseguir un vuelo gratis.
 
 A continuación, el **paso 4** será:
-+ 
++ Conseguir que el chatbot confirme que eres miembro de la compañía aérea mediante una **tarjeta de membresía**.
+
+Por último, el **paso 5** y último será:
++ Conseguir el **vuelo gratis** a Las Vegas.
+
+¡Perfecto! Ya tienes un vuelo gratis para ir a Las Vegas, ¡buen viaje!
+
